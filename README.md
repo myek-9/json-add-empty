@@ -4,8 +4,6 @@ This python script is designed to compare who json files and add missing keys wi
 
 ## Samples
 
-To run tests, run the following command
-
 Template json
 
 ```json
