@@ -1,6 +1,6 @@
 # json-add-empty
 
-This python script is designed to compare who json files and add missing keys with with emty strings.
+This python script is designed to compare two json files and add missing keys with with emty strings.
 
 ## Samples
 
